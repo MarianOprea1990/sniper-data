@@ -1,0 +1,24 @@
+{
+  "session_file": "test_session",
+  "total_matches": 3,
+  "bet_count": 2,
+  "skip_count": 1,
+  "avg_ev": 0.312,
+  "top3": [
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "ev": 0.55,
+      "prob": 0.72
+    },
+    {
+      "home": "PSG",
+      "away": "Monaco",
+      "ev": 0.41,
+      "prob": 0.65
+    }
+  ],
+  "matches": [],
+  "_synced_at": "2026-05-24T23:12:35Z",
+  "_sync_source": "SniperShootElite GUI"
+}
