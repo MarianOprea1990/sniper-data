@@ -1,8 +1,6 @@
 {
   "session_file": "session_20260314_123731.json",
-  "timestamp": "2026-05-25T03:21:54.447327",
-  "_synced_at": "2026-05-25T01:21:54Z",
-  "_sync_source": "SniperShootElite GUI",
+  "timestamp": "2026-05-25T03:26:04.521838",
   "session_summary": {
     "total": 58,
     "bets": 30,
@@ -17,7 +15,7 @@
       "probability": 0.5719,
       "confidence": 0.8067,
       "ev": -0.1136,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.55,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -72,7 +70,7 @@
       "probability": 0.4864,
       "confidence": 0.6492,
       "ev": -0.1002,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.85,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -83,7 +81,7 @@
       "probability": 0.5386,
       "confidence": 0.8067,
       "ev": -0.0412,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.78,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -116,7 +114,7 @@
       "probability": 0.5206,
       "confidence": 0.6492,
       "ev": -0.141,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.65,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -127,7 +125,7 @@
       "probability": 0.5652,
       "confidence": 0.8067,
       "ev": -0.0108,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.75,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -171,7 +169,7 @@
       "probability": 0.2985,
       "confidence": 0.8067,
       "ev": -0.3732,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.1,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -237,7 +235,7 @@
       "probability": 0.2854,
       "confidence": 0.8067,
       "ev": -0.3294,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.35,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -259,7 +257,7 @@
       "probability": 0.5709,
       "confidence": 0.6492,
       "ev": -0.0579,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.65,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -281,7 +279,7 @@
       "probability": 0.5282,
       "confidence": 0.6492,
       "ev": -0.0756,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.75,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -303,7 +301,7 @@
       "probability": 0.4674,
       "confidence": 0.8032,
       "ev": -0.0091,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.12,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -358,7 +356,7 @@
       "probability": 0.3075,
       "confidence": 0.8067,
       "ev": -0.3389,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.15,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -369,7 +367,7 @@
       "probability": 0.4541,
       "confidence": 0.8032,
       "ev": -0.0827,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.02,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -391,7 +389,7 @@
       "probability": 0.3083,
       "confidence": 0.8067,
       "ev": -0.3155,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.22,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -413,7 +411,7 @@
       "probability": 0.5282,
       "confidence": 0.6492,
       "ev": -0.0334,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.83,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -446,7 +444,7 @@
       "probability": 0.5576,
       "confidence": 0.8067,
       "ev": -0.1078,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.6,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -490,7 +488,7 @@
       "probability": 0.2255,
       "confidence": 0.8032,
       "ev": -0.4994,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.22,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -523,7 +521,7 @@
       "probability": 0.3526,
       "confidence": 0.8032,
       "ev": -0.2419,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 2.15,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -567,7 +565,7 @@
       "probability": 0.6051,
       "confidence": 0.8067,
       "ev": -0.0741,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.53,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -578,7 +576,7 @@
       "probability": 0.5311,
       "confidence": 0.6492,
       "ev": -0.0866,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.72,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -589,7 +587,7 @@
       "probability": 0.6489,
       "confidence": 0.7292,
       "ev": -0.0462,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.47,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -600,7 +598,7 @@
       "probability": 0.4664,
       "confidence": 0.8032,
       "ev": -0.1837,
-      "kelly_safe": 0.0,
+      "kelly_safe": 0,
       "market_odds": 1.75,
       "recommendation": "SKIP - NEGATIVE EV"
     },
@@ -6762,5 +6760,7 @@
         ]
       }
     ]
-  }
+  },
+  "_synced_at": "2026-05-25T01:26:04Z",
+  "_sync_source": "SniperShootElite GUI"
 }
