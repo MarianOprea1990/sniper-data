@@ -1,24 +1,1421 @@
 {
-  "session_file": "test_session",
-  "total_matches": 3,
-  "bet_count": 2,
-  "skip_count": 1,
-  "avg_ev": 0.312,
-  "top3": [
+  "session_file": "session_20260314_123731.json",
+  "timestamp": "2026-05-25T03:05:13.521464",
+  "_synced_at": "2026-05-25T01:05:13Z",
+  "_sync_source": "SniperShootElite CLI Sync",
+  "session_summary": {
+    "total": 58,
+    "bets": 30,
+    "skips": 28,
+    "avg_ev": 0.0227
+  },
+  "matches": [
     {
-      "home": "Arsenal",
-      "away": "Everton",
-      "ev": 0.55,
-      "prob": 0.72
+      "team1": "Eintracht Frankfurt",
+      "team2": "Heidenheim",
+      "league": "Bundesliga",
+      "probability": 0.5719,
+      "confidence": 0.8067,
+      "ev": -0.1136,
+      "kelly_safe": 0.0,
+      "market_odds": 1.55,
+      "recommendation": "SKIP - NEGATIVE EV"
     },
     {
-      "home": "PSG",
-      "away": "Monaco",
-      "ev": 0.41,
-      "prob": 0.65
+      "team1": "Dortmund",
+      "team2": "Augsburg",
+      "league": "Bundesliga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.085,
+      "kelly_safe": 4.29,
+      "market_odds": 1.55,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Hoffenheim",
+      "team2": "Wolfsburg",
+      "league": "Bundesliga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.008,
+      "kelly_safe": 0.5,
+      "market_odds": 1.44,
+      "recommendation": "SKIP - THRESHOLDS NOT MET"
+    },
+    {
+      "team1": "Hamburger SV",
+      "team2": "FC Koln",
+      "league": "Bundesliga",
+      "probability": 0.6773,
+      "confidence": 0.7292,
+      "ev": 0.2328,
+      "kelly_safe": 7.45,
+      "market_odds": 1.82,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Arminia Bielefeld",
+      "team2": "Paderborn",
+      "league": "2. Bundesliga",
+      "probability": 0.6298,
+      "confidence": 0.8067,
+      "ev": 0.1965,
+      "kelly_safe": 6.06,
+      "market_odds": 1.9,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Braunschweig",
+      "team2": "Dusseldorf",
+      "league": "2. Bundesliga",
+      "probability": 0.4864,
+      "confidence": 0.6492,
+      "ev": -0.1002,
+      "kelly_safe": 0.0,
+      "market_odds": 1.85,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Hertha Berlin",
+      "team2": "Bochum",
+      "league": "2. Bundesliga",
+      "probability": 0.5386,
+      "confidence": 0.8067,
+      "ev": -0.0412,
+      "kelly_safe": 0.0,
+      "market_odds": 1.78,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Holstein Kiel",
+      "team2": "Nurnberg",
+      "league": "2. Bundesliga",
+      "probability": 0.6602,
+      "confidence": 0.7292,
+      "ev": 0.2743,
+      "kelly_safe": 7.74,
+      "market_odds": 1.93,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Saarbrucken",
+      "team2": "Regensburg",
+      "league": "3. Liga",
+      "probability": 0.6393,
+      "confidence": 0.7292,
+      "ev": 0.0997,
+      "kelly_safe": 3.63,
+      "market_odds": 1.72,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "TSV Havelse",
+      "team2": "Viktoria Koln",
+      "league": "3. Liga",
+      "probability": 0.5206,
+      "confidence": 0.6492,
+      "ev": -0.141,
+      "kelly_safe": 0.0,
+      "market_odds": 1.65,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "VfL Osnabruck",
+      "team2": "Mannheim",
+      "league": "3. Liga",
+      "probability": 0.5652,
+      "confidence": 0.8067,
+      "ev": -0.0108,
+      "kelly_safe": 0.0,
+      "market_odds": 1.75,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "RW Essen",
+      "team2": "Aue",
+      "league": "3. Liga",
+      "probability": 0.6798,
+      "confidence": 0.8067,
+      "ev": 0.0537,
+      "kelly_safe": 2.71,
+      "market_odds": 1.55,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Hansa Rostock",
+      "team2": "Duisburg",
+      "league": "3. Liga",
+      "probability": 0.6839,
+      "confidence": 0.8067,
+      "ev": 0.2857,
+      "kelly_safe": 9.01,
+      "market_odds": 1.88,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Munich 1860",
+      "team2": "Wehen",
+      "league": "3. Liga",
+      "probability": 0.5918,
+      "confidence": 0.7292,
+      "ev": 0.0357,
+      "kelly_safe": 1.25,
+      "market_odds": 1.75,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Sunderland",
+      "team2": "Brighton",
+      "league": "Premier League",
+      "probability": 0.2985,
+      "confidence": 0.8067,
+      "ev": -0.3732,
+      "kelly_safe": 0.0,
+      "market_odds": 2.1,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Burnley",
+      "team2": "Bournemouth",
+      "league": "Premier League",
+      "probability": 0.6089,
+      "confidence": 0.7292,
+      "ev": 0.0352,
+      "kelly_safe": 1.32,
+      "market_odds": 1.7,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Chelsea",
+      "team2": "Newcastle",
+      "league": "Premier League",
+      "probability": 0.75,
+      "confidence": 0.8067,
+      "ev": 0.14,
+      "kelly_safe": 7.47,
+      "market_odds": 1.52,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Arsenal",
+      "team2": "Everton",
+      "league": "Premier League",
+      "probability": 0.6929,
+      "confidence": 0.8067,
+      "ev": 0.3997,
+      "kelly_safe": 10.87,
+      "market_odds": 2.02,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "West Ham",
+      "team2": "Manchester City",
+      "league": "Premier League",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.099,
+      "kelly_safe": 4.82,
+      "market_odds": 1.57,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Coventry",
+      "team2": "Southampton",
+      "league": "Championship",
+      "probability": 0.6248,
+      "confidence": 0.8067,
+      "ev": 0.0435,
+      "kelly_safe": 1.8,
+      "market_odds": 1.67,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Oxford Utd",
+      "team2": "Charlton",
+      "league": "Championship",
+      "probability": 0.2854,
+      "confidence": 0.8067,
+      "ev": -0.3294,
+      "kelly_safe": 0.0,
+      "market_odds": 2.35,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Middlesbrough",
+      "team2": "Bristol City",
+      "league": "Championship",
+      "probability": 0.646,
+      "confidence": 0.7292,
+      "ev": 0.0142,
+      "kelly_safe": 0.65,
+      "market_odds": 1.57,
+      "recommendation": "SKIP - THRESHOLDS NOT MET"
+    },
+    {
+      "team1": "Sheffield Wed",
+      "team2": "Ipswich",
+      "league": "Championship",
+      "probability": 0.5709,
+      "confidence": 0.6492,
+      "ev": -0.0579,
+      "kelly_safe": 0.0,
+      "market_odds": 1.65,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Birmingham",
+      "team2": "Sheffield Utd",
+      "league": "Championship",
+      "probability": 0.5909,
+      "confidence": 0.6492,
+      "ev": 0.1227,
+      "kelly_safe": 3.37,
+      "market_odds": 1.9,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Norwich",
+      "team2": "Preston",
+      "league": "Championship",
+      "probability": 0.5282,
+      "confidence": 0.6492,
+      "ev": -0.0756,
+      "kelly_safe": 0.0,
+      "market_odds": 1.75,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Millwall",
+      "team2": "Blackburn",
+      "league": "Championship",
+      "probability": 0.4626,
+      "confidence": 0.8067,
+      "ev": 0.0178,
+      "kelly_safe": 0.41,
+      "market_odds": 2.2,
+      "recommendation": "SKIP - PROBABILITY TOO LOW"
+    },
+    {
+      "team1": "Stoke",
+      "team2": "Watford",
+      "league": "Championship",
+      "probability": 0.4674,
+      "confidence": 0.8032,
+      "ev": -0.0091,
+      "kelly_safe": 0.0,
+      "market_odds": 2.12,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Leicester",
+      "team2": "QPR",
+      "league": "Championship",
+      "probability": 0.6241,
+      "confidence": 0.7292,
+      "ev": 0.2358,
+      "kelly_safe": 6.32,
+      "market_odds": 1.98,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "West Brom",
+      "team2": "Hull",
+      "league": "Championship",
+      "probability": 0.607,
+      "confidence": 0.6492,
+      "ev": 0.2262,
+      "kelly_safe": 5.49,
+      "market_odds": 2.02,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Reading",
+      "team2": "Plymouth",
+      "league": "League One",
+      "probability": 0.5786,
+      "confidence": 0.8067,
+      "ev": 0.0298,
+      "kelly_safe": 1.06,
+      "market_odds": 1.78,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Exeter",
+      "team2": "Cardiff",
+      "league": "League One",
+      "probability": 0.6089,
+      "confidence": 0.7292,
+      "ev": 0.0839,
+      "kelly_safe": 2.82,
+      "market_odds": 1.78,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Northampton",
+      "team2": "Burton",
+      "league": "League One",
+      "probability": 0.3075,
+      "confidence": 0.8067,
+      "ev": -0.3389,
+      "kelly_safe": 0.0,
+      "market_odds": 2.15,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Girona",
+      "team2": "Ath Bilbao",
+      "league": "La Liga",
+      "probability": 0.4541,
+      "confidence": 0.8032,
+      "ev": -0.0827,
+      "kelly_safe": 0.0,
+      "market_odds": 2.02,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Atl. Madrid",
+      "team2": "Getafe",
+      "league": "La Liga",
+      "probability": 0.4807,
+      "confidence": 0.8032,
+      "ev": 0.2114,
+      "kelly_safe": 3.85,
+      "market_odds": 2.52,
+      "recommendation": "SKIP - PROBABILITY TOO LOW"
+    },
+    {
+      "team1": "R. Oviedo",
+      "team2": "Valencia",
+      "league": "La Liga",
+      "probability": 0.3083,
+      "confidence": 0.8067,
+      "ev": -0.3155,
+      "kelly_safe": 0.0,
+      "market_odds": 2.22,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Real Madrid",
+      "team2": "Elche",
+      "league": "La Liga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.008,
+      "kelly_safe": 0.5,
+      "market_odds": 1.44,
+      "recommendation": "SKIP - THRESHOLDS NOT MET"
+    },
+    {
+      "team1": "Cultural Leonesa",
+      "team2": "Racing Santander",
+      "league": "Segunda División",
+      "probability": 0.5282,
+      "confidence": 0.6492,
+      "ev": -0.0334,
+      "kelly_safe": 0.0,
+      "market_odds": 1.83,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Zaragoza",
+      "team2": "Almeria",
+      "league": "Segunda División",
+      "probability": 0.5453,
+      "confidence": 0.6492,
+      "ev": 0.0633,
+      "kelly_safe": 1.65,
+      "market_odds": 1.95,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Ceuta",
+      "team2": "Dep. La Coruna",
+      "league": "Segunda División",
+      "probability": 0.5871,
+      "confidence": 0.6492,
+      "ev": 0.2329,
+      "kelly_safe": 5.24,
+      "market_odds": 2.1,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Inter",
+      "team2": "Atalanta",
+      "league": "Serie A",
+      "probability": 0.5576,
+      "confidence": 0.8067,
+      "ev": -0.1078,
+      "kelly_safe": 0.0,
+      "market_odds": 1.6,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Napoli",
+      "team2": "Lecce",
+      "league": "Serie A",
+      "probability": 0.55,
+      "confidence": 0.6492,
+      "ev": 0.1991,
+      "kelly_safe": 4.18,
+      "market_odds": 2.18,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Juventus",
+      "league": "Serie A",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.281,
+      "kelly_safe": 9.39,
+      "market_odds": 1.83,
+      "recommendation": "BET STRONG"
+    },
+    {
+      "team1": "Lorient",
+      "team2": "Lens",
+      "league": "Ligue 1",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.26,
+      "kelly_safe": 9.02,
+      "market_odds": 1.8,
+      "recommendation": "BET STRONG"
+    },
+    {
+      "team1": "Angers",
+      "team2": "Nice",
+      "league": "Ligue 1",
+      "probability": 0.2255,
+      "confidence": 0.8032,
+      "ev": -0.4994,
+      "kelly_safe": 0.0,
+      "market_odds": 2.22,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Monaco",
+      "team2": "Brest",
+      "league": "Ligue 1",
+      "probability": 0.6564,
+      "confidence": 0.7292,
+      "ev": 0.116,
+      "kelly_safe": 4.35,
+      "market_odds": 1.7,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Vitoria Guimaraes",
+      "team2": "Famalicao",
+      "league": "Primeira Liga",
+      "probability": 0.4921,
+      "confidence": 0.6492,
+      "ev": 0.0186,
+      "kelly_safe": 0.43,
+      "market_odds": 2.07,
+      "recommendation": "SKIP - PROBABILITY TOO LOW"
+    },
+    {
+      "team1": "Gil Vicente",
+      "team2": "Alverca",
+      "league": "Primeira Liga",
+      "probability": 0.3526,
+      "confidence": 0.8032,
+      "ev": -0.2419,
+      "kelly_safe": 0.0,
+      "market_odds": 2.15,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Arouca",
+      "team2": "Benfica",
+      "league": "Primeira Liga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.12,
+      "kelly_safe": 5.55,
+      "market_odds": 1.6,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "FC Volendam",
+      "team2": "Sittard",
+      "league": "Eredivisie",
+      "probability": 0.6281,
+      "confidence": 0.8067,
+      "ev": 0.0364,
+      "kelly_safe": 1.55,
+      "market_odds": 1.65,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Heerenveen",
+      "team2": "Telstar",
+      "league": "Eredivisie",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.015,
+      "kelly_safe": 0.92,
+      "market_odds": 1.45,
+      "recommendation": "SKIP - THRESHOLDS NOT MET"
+    },
+    {
+      "team1": "Ajax",
+      "team2": "Sparta Rotterdam",
+      "league": "Eredivisie",
+      "probability": 0.6051,
+      "confidence": 0.8067,
+      "ev": -0.0741,
+      "kelly_safe": 0.0,
+      "market_odds": 1.53,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Charleroi",
+      "team2": "Leuven",
+      "league": "Belgian Pro League",
+      "probability": 0.5311,
+      "confidence": 0.6492,
+      "ev": -0.0866,
+      "kelly_safe": 0.0,
+      "market_odds": 1.72,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Westerlo",
+      "team2": "Club Brugge KV",
+      "league": "Belgian Pro League",
+      "probability": 0.6489,
+      "confidence": 0.7292,
+      "ev": -0.0462,
+      "kelly_safe": 0.0,
+      "market_odds": 1.47,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Royale Union SG",
+      "team2": "Dender",
+      "league": "Belgian Pro League",
+      "probability": 0.4664,
+      "confidence": 0.8032,
+      "ev": -0.1837,
+      "kelly_safe": 0.0,
+      "market_odds": 1.75,
+      "recommendation": "SKIP - NEGATIVE EV"
+    },
+    {
+      "team1": "Zurich",
+      "team2": "Sion",
+      "league": "Swiss Super League",
+      "probability": 0.6868,
+      "confidence": 0.8067,
+      "ev": 0.147,
+      "kelly_safe": 6.09,
+      "market_odds": 1.67,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Thun",
+      "team2": "Grasshoppers",
+      "league": "Swiss Super League",
+      "probability": 0.6462,
+      "confidence": 0.8067,
+      "ev": 0.0339,
+      "kelly_safe": 1.57,
+      "market_odds": 1.6,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "St. Gallen",
+      "team2": "Lugano",
+      "league": "Swiss Super League",
+      "probability": 0.6232,
+      "confidence": 0.8067,
+      "ev": 0.0407,
+      "kelly_safe": 1.69,
+      "market_odds": 1.67,
+      "recommendation": "BET SMALL"
+    },
+    {
+      "team1": "Doncaster",
+      "team2": "Blackpool",
+      "league": "League One",
+      "probability": 0.5871,
+      "confidence": 0.6492,
+      "ev": 0.0744,
+      "kelly_safe": 2.22,
+      "market_odds": 1.83,
+      "recommendation": "BET SMALL"
     }
   ],
-  "matches": [],
-  "_synced_at": "2026-05-25T01:03:49Z",
-  "_sync_source": "SniperShootElite GUI"
+  "top3": [
+    {
+      "team1": "Chelsea",
+      "team2": "Newcastle",
+      "league": "Premier League",
+      "probability": 0.75,
+      "confidence": 0.8067,
+      "ev": 0.14,
+      "kelly_safe": 7.47,
+      "market_odds": 1.52,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Dortmund",
+      "team2": "Augsburg",
+      "league": "Bundesliga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.085,
+      "kelly_safe": 4.29,
+      "market_odds": 1.55,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "West Ham",
+      "team2": "Manchester City",
+      "league": "Premier League",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.099,
+      "kelly_safe": 4.82,
+      "market_odds": 1.57,
+      "recommendation": "BET"
+    }
+  ],
+  "top5": [
+    {
+      "team1": "Chelsea",
+      "team2": "Newcastle",
+      "league": "Premier League",
+      "probability": 0.75,
+      "confidence": 0.8067,
+      "ev": 0.14,
+      "kelly_safe": 7.47,
+      "market_odds": 1.52,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Dortmund",
+      "team2": "Augsburg",
+      "league": "Bundesliga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.085,
+      "kelly_safe": 4.29,
+      "market_odds": 1.55,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "West Ham",
+      "team2": "Manchester City",
+      "league": "Premier League",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.099,
+      "kelly_safe": 4.82,
+      "market_odds": 1.57,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Juventus",
+      "league": "Serie A",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.281,
+      "kelly_safe": 9.39,
+      "market_odds": 1.83,
+      "recommendation": "BET STRONG"
+    },
+    {
+      "team1": "Lorient",
+      "team2": "Lens",
+      "league": "Ligue 1",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.26,
+      "kelly_safe": 9.02,
+      "market_odds": 1.8,
+      "recommendation": "BET STRONG"
+    }
+  ],
+  "combined_slip": {
+    "matches": [
+      {
+        "team1": "Chelsea",
+        "team2": "Newcastle",
+        "league": "Premier League",
+        "probability": 0.75,
+        "confidence": 0.8067,
+        "ev": 0.14,
+        "kelly_safe": 7.47,
+        "market_odds": 1.52,
+        "recommendation": "BET"
+      },
+      {
+        "team1": "Dortmund",
+        "team2": "Augsburg",
+        "league": "Bundesliga",
+        "probability": 0.7,
+        "confidence": 0.8067,
+        "ev": 0.085,
+        "kelly_safe": 4.29,
+        "market_odds": 1.55,
+        "recommendation": "BET"
+      },
+      {
+        "team1": "West Ham",
+        "team2": "Manchester City",
+        "league": "Premier League",
+        "probability": 0.7,
+        "confidence": 0.8067,
+        "ev": 0.099,
+        "kelly_safe": 4.82,
+        "market_odds": 1.57,
+        "recommendation": "BET"
+      }
+    ],
+    "combined_odds": 3.7,
+    "combined_prob": 0.3675,
+    "combined_ev": 0.3594
+  },
+  "smart_selection": [
+    {
+      "team1": "Chelsea",
+      "team2": "Newcastle",
+      "league": "Premier League",
+      "probability": 0.75,
+      "confidence": 0.8067,
+      "ev": 0.14,
+      "kelly_safe": 7.47,
+      "market_odds": 1.52,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Arsenal",
+      "team2": "Everton",
+      "league": "Premier League",
+      "probability": 0.6929,
+      "confidence": 0.8067,
+      "ev": 0.3997,
+      "kelly_safe": 10.87,
+      "market_odds": 2.02,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "West Ham",
+      "team2": "Manchester City",
+      "league": "Premier League",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.099,
+      "kelly_safe": 4.82,
+      "market_odds": 1.57,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Udinese",
+      "team2": "Juventus",
+      "league": "Serie A",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.281,
+      "kelly_safe": 9.39,
+      "market_odds": 1.83,
+      "recommendation": "BET STRONG"
+    },
+    {
+      "team1": "Lorient",
+      "team2": "Lens",
+      "league": "Ligue 1",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.26,
+      "kelly_safe": 9.02,
+      "market_odds": 1.8,
+      "recommendation": "BET STRONG"
+    },
+    {
+      "team1": "Arouca",
+      "team2": "Benfica",
+      "league": "Primeira Liga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.12,
+      "kelly_safe": 5.55,
+      "market_odds": 1.6,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Hamburger SV",
+      "team2": "FC Koln",
+      "league": "Bundesliga",
+      "probability": 0.6773,
+      "confidence": 0.7292,
+      "ev": 0.2328,
+      "kelly_safe": 7.45,
+      "market_odds": 1.82,
+      "recommendation": "BET"
+    },
+    {
+      "team1": "Dortmund",
+      "team2": "Augsburg",
+      "league": "Bundesliga",
+      "probability": 0.7,
+      "confidence": 0.8067,
+      "ev": 0.085,
+      "kelly_safe": 4.29,
+      "market_odds": 1.55,
+      "recommendation": "BET"
+    }
+  ],
+  "history": {
+    "top3": [
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.36749999999999994,
+        "matches": [
+          {
+            "match": "Chelsea vs Newcastle",
+            "prob": 0.75
+          },
+          {
+            "match": "Dortmund vs Augsburg",
+            "prob": 0.7
+          },
+          {
+            "match": "West Ham vs Manchester City",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-05-25T00:09:56.529987"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.339521,
+        "matches": [
+          {
+            "match": "Udinese vs Juventus",
+            "prob": 0.7
+          },
+          {
+            "match": "Lorient vs Lens",
+            "prob": 0.7
+          },
+          {
+            "match": "Arsenal vs Everton",
+            "prob": 0.6929000000000001
+          }
+        ],
+        "timestamp": "2026-03-14T14:51:52.771595"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.36749999999999994,
+        "matches": [
+          {
+            "match": "Braga vs Sporting CP",
+            "prob": 0.75
+          },
+          {
+            "match": "Celta Vigo vs Real Madrid",
+            "prob": 0.7
+          },
+          {
+            "match": "Royale Union SG vs Genk",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-03-06T18:08:14.887240"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.36749999999999994,
+        "matches": [
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Lyon",
+            "prob": 0.7
+          },
+          {
+            "match": "Arsenal vs Chelsea",
+            "prob": 0.75
+          }
+        ],
+        "timestamp": "2026-03-02T19:37:30.022361"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.3429999999999999,
+        "matches": [
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Lyon",
+            "prob": 0.7
+          },
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-03-02T19:33:47.535234"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.36749999999999994,
+        "matches": [
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Lyon",
+            "prob": 0.7
+          },
+          {
+            "match": "Arsenal vs Chelsea",
+            "prob": 0.75
+          }
+        ],
+        "timestamp": "2026-03-01T13:27:19.803633"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.36749999999999994,
+        "matches": [
+          {
+            "match": "Leeds vs Manchester City",
+            "prob": 0.75
+          },
+          {
+            "match": "Arminia Bielefeld vs Hannover",
+            "prob": 0.7
+          },
+          {
+            "match": "Inter vs Genoa",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-02-28T13:38:57.164698"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.390033,
+        "matches": [
+          {
+            "match": "Tottenham vs Arsenal",
+            "prob": 0.75
+          },
+          {
+            "match": "Munich 1860 vs Hansa Rostock",
+            "prob": 0.74292
+          },
+          {
+            "match": "Villarreal vs Valencia",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-02-22T14:10:06.685555"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.36635549999999995,
+        "matches": [
+          {
+            "match": "Osasuna vs Real Madrid",
+            "prob": 0.75
+          },
+          {
+            "match": "Juventus vs Como",
+            "prob": 0.7
+          },
+          {
+            "match": "Union Berlin vs Bayer Leverkusen",
+            "prob": 0.69782
+          }
+        ],
+        "timestamp": "2026-02-21T14:47:15.403296"
+      },
+      {
+        "type": "TOP_3_STATS",
+        "probability": 0.39375,
+        "matches": [
+          {
+            "match": "Hoffenheim vs Freiburg",
+            "prob": 0.75
+          },
+          {
+            "match": "Inter vs Juventus",
+            "prob": 0.75
+          },
+          {
+            "match": "Cardiff vs Luton",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-02-14T12:43:34.338264"
+      }
+    ],
+    "top5": [
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.18007499999999993,
+        "matches": [
+          {
+            "match": "Chelsea vs Newcastle",
+            "prob": 0.75
+          },
+          {
+            "match": "Dortmund vs Augsburg",
+            "prob": 0.7
+          },
+          {
+            "match": "West Ham vs Manchester City",
+            "prob": 0.7
+          },
+          {
+            "match": "Udinese vs Juventus",
+            "prob": 0.7
+          },
+          {
+            "match": "Lorient vs Lens",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-03-14T14:52:10.113287"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.18007499999999993,
+        "matches": [
+          {
+            "match": "Braga vs Sporting CP",
+            "prob": 0.75
+          },
+          {
+            "match": "FC Koln vs Dortmund",
+            "prob": 0.7
+          },
+          {
+            "match": "Celta Vigo vs Real Madrid",
+            "prob": 0.7
+          },
+          {
+            "match": "Ath Bilbao vs Barcelona",
+            "prob": 0.7
+          },
+          {
+            "match": "Villarreal vs Elche",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-03-06T18:08:21.768777"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.19052853749999998,
+        "matches": [
+          {
+            "match": "Twente vs Feyenoord",
+            "prob": 0.75
+          },
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Lyon",
+            "prob": 0.7
+          },
+          {
+            "match": "Charleroi vs Club Brugge KV",
+            "prob": 0.69126
+          },
+          {
+            "match": "Arsenal vs Chelsea",
+            "prob": 0.75
+          }
+        ],
+        "timestamp": "2026-03-02T19:37:33.742521"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.19293749999999996,
+        "matches": [
+          {
+            "match": "Twente vs Feyenoord",
+            "prob": 0.75
+          },
+          {
+            "match": "Twente vs Feyenoord",
+            "prob": 0.75
+          },
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Lyon",
+            "prob": 0.7
+          },
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-03-02T19:33:57.982889"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.19052853749999998,
+        "matches": [
+          {
+            "match": "Twente vs Feyenoord",
+            "prob": 0.75
+          },
+          {
+            "match": "Eintracht Frankfurt vs Freiburg",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Lyon",
+            "prob": 0.7
+          },
+          {
+            "match": "Charleroi vs Club Brugge KV",
+            "prob": 0.69126
+          },
+          {
+            "match": "Arsenal vs Chelsea",
+            "prob": 0.75
+          }
+        ],
+        "timestamp": "2026-03-01T13:27:46.624922"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.16513232651999998,
+        "matches": [
+          {
+            "match": "Leeds vs Manchester City",
+            "prob": 0.75
+          },
+          {
+            "match": "Arminia Bielefeld vs Hannover",
+            "prob": 0.7
+          },
+          {
+            "match": "Inter vs Genoa",
+            "prob": 0.7
+          },
+          {
+            "match": "Nacional vs Braga",
+            "prob": 0.6953999999999999
+          },
+          {
+            "match": "Ipswich vs Swansea",
+            "prob": 0.6461600000000001
+          }
+        ],
+        "timestamp": "2026-02-28T13:39:21.123164"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.204767325,
+        "matches": [
+          {
+            "match": "Hannover vs SG Dynamo Dresden",
+            "prob": 0.75
+          },
+          {
+            "match": "Tottenham vs Arsenal",
+            "prob": 0.75
+          },
+          {
+            "match": "Munich 1860 vs Hansa Rostock",
+            "prob": 0.74292
+          },
+          {
+            "match": "Villarreal vs Valencia",
+            "prob": 0.7
+          },
+          {
+            "match": "Strasbourg vs Lyon",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-02-22T14:10:19.000956"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.2373046875,
+        "matches": [
+          {
+            "match": "RB Leipzig vs Dortmund",
+            "prob": 0.75
+          },
+          {
+            "match": "Alemannia Aachen vs Verl",
+            "prob": 0.75
+          },
+          {
+            "match": "Osasuna vs Real Madrid",
+            "prob": 0.75
+          },
+          {
+            "match": "Lens vs Monaco",
+            "prob": 0.75
+          },
+          {
+            "match": "Ajax vs Nijmegen",
+            "prob": 0.75
+          }
+        ],
+        "timestamp": "2026-02-21T14:47:21.361064"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.18436592999999998,
+        "matches": [
+          {
+            "match": "Bochum vs Paderborn",
+            "prob": 0.75
+          },
+          {
+            "match": "Basaksehir vs Besiktas",
+            "prob": 0.7166800000000001
+          },
+          {
+            "match": "Magdeburg vs Arminia Bielefeld",
+            "prob": 0.7
+          },
+          {
+            "match": "Cottbus vs Mannheim",
+            "prob": 0.7
+          },
+          {
+            "match": "Thun vs Sion",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-02-15T12:50:57.470600"
+      },
+      {
+        "type": "TOP_5_STATS",
+        "probability": 0.19293749999999996,
+        "matches": [
+          {
+            "match": "Hoffenheim vs Freiburg",
+            "prob": 0.75
+          },
+          {
+            "match": "Inter vs Juventus",
+            "prob": 0.75
+          },
+          {
+            "match": "Cardiff vs Luton",
+            "prob": 0.7
+          },
+          {
+            "match": "Marseille vs Strasbourg",
+            "prob": 0.7
+          },
+          {
+            "match": "Zurich vs Luzern",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-02-14T12:43:43.934133"
+      }
+    ],
+    "combined": [],
+    "smart": [
+      {
+        "type": "SMART_SELECTION_STATS",
+        "probability": 0.059160952820287493,
+        "matches": [
+          {
+            "match": "Chelsea vs Newcastle",
+            "prob": 0.75
+          },
+          {
+            "match": "Arsenal vs Everton",
+            "prob": 0.6929000000000001
+          },
+          {
+            "match": "West Ham vs Manchester City",
+            "prob": 0.7
+          },
+          {
+            "match": "Udinese vs Juventus",
+            "prob": 0.7
+          },
+          {
+            "match": "Lorient vs Lens",
+            "prob": 0.7
+          },
+          {
+            "match": "Arouca vs Benfica",
+            "prob": 0.7
+          },
+          {
+            "match": "Hamburger SV vs FC Koln",
+            "prob": 0.6773499999999999
+          },
+          {
+            "match": "Dortmund vs Augsburg",
+            "prob": 0.7
+          }
+        ],
+        "timestamp": "2026-03-14T14:50:18.796072"
+      },
+      {
+        "type": "SMART_SELECTION_STATS",
+        "probability": 0.054651625121617635,
+        "matches": [
+          {
+            "match": "FC Koln vs Dortmund",
+            "prob": 0.7
+          },
+          {
+            "match": "Celta Vigo vs Real Madrid",
+            "prob": 0.7
+          },
+          {
+            "match": "Villarreal vs Elche",
+            "prob": 0.7
+          },
+          {
+            "match": "Braga vs Sporting CP",
+            "prob": 0.75
+          },
+          {
+            "match": "Freiburg vs Bayer Leverkusen",
+            "prob": 0.69255
+          },
+          {
+            "match": "Atl. Madrid vs Real Sociedad",
+            "prob": 0.6650200000000001
+          },
+          {
+            "match": "Mainz vs Stuttgart",
+            "prob": 0.68388
+          },
+          {
+            "match": "Wolfsburg vs Hamburger SV",
+            "prob": 0.6745
+          }
+        ],
+        "timestamp": "2026-03-08T12:04:59.283207"
+      }
+    ]
+  }
 }
