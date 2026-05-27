@@ -2725,11 +2725,65 @@
       "position_info": "\n📊 POZIȚII: Doncaster (#18) vs Blackpool (#21) - Doncaster avantaj (+3 poziții)",
       "calculation_method": "orchestrator",
       "overconfidence_capped": false
+    },
+    {
+      "team1": "Atl. Madrid",
+      "team2": "Betis",
+      "probability": 0.6369911994260709,
+      "confidence": 0.6932816672584876,
+      "lineup_verified": true,
+      "league": "La Liga",
+      "roi_score": 0.4416143207670902,
+      "ev": -0.0127,
+      "recommendation": "SKIP - NEGATIVE EV",
+      "market_drift": 0,
+      "adj_roi": 0.4416143207670902,
+      "weather": "Senin",
+      "motivation": "Ridicat",
+      "alert_status": "ROI 0.442 - SKIP",
+      "performance_grade": "C (Average)",
+      "top_3_scores": [
+        [
+          "2-1",
+          0.0899
+        ],
+        [
+          "1-1",
+          0.0746
+        ],
+        [
+          "3-1",
+          0.069
+        ]
+      ],
+      "realism_warning": "Contextual realism DISABLED - League position factors already applied",
+      "mismatch_info": {},
+      "original_scores": [],
+      "mc_seed": 1281761723,
+      "market_odds": 1.55,
+      "fair_odds": 1.57,
+      "kelly_safe": 0,
+      "stake": "0% bankroll",
+      "xg_total": 3.8008410904799996,
+      "home_advantage": 1.12,
+      "shrinkage_lambda": 0.05,
+      "home_position": 3,
+      "away_position": 7,
+      "position_info": "\n📊 POZIȚII: Atl. Madrid (#3) vs Betis (#7) - Atl. Madrid avantaj (+4 poziții)",
+      "calculation_method": "orchestrator",
+      "overconfidence_capped": false,
+      "bookmaker_margin": 15.8,
+      "odds_under": 1.95,
+      "xg_adjustments": [
+        "Absent titular DEPLASARE: xG 1.60→1.41 (-12%)",
+        "Formă ACASĂ (WWDDW): ×1.09 → xG 1.90→2.08",
+        "Formă DEPLASARE (WWDDD): ×1.04 → xG 1.41→1.46"
+      ]
     }
   ],
-  "timestamp": "2026-05-26T19:54:09.910601",
-  "session_start": "2026-05-26T19:54:09.910601",
-  "total_matches": 58,
-  "_synced_at": "2026-05-26T17:54:09Z",
+  "timestamp": "2026-05-27T19:01:49.715120",
+  "session_start": "2026-05-27T19:01:49.715120",
+  "total_matches": 59,
+  "_synced_at": "2026-05-27T17:01:49Z",
   "_sync_source": "SniperShootElite GUI"
 }
